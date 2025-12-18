@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "歌姫が死んだ",
+  "base_artist": "吸う彩度",
+  "createdAt": "2025-12-18T15:43:19.283099Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "歌姫が死んだ",
+      "artist": "吸う彩度",
+      "has_synced": false,
+      "path": "select/pl_01_歌姫が死んだ_吸う彩度.txt"
+    }
+  ]
+}
